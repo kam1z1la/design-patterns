@@ -1,4 +1,4 @@
-package behaviorall;
+package com.patern.designpatterns.behaviorall.observer;
 
 import java.util.LinkedList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package behaviorall;
+package com.patern.designpatterns.behaviorall.observer;
 
 public class ObserverApplication {
     public static void main(String[] args) {

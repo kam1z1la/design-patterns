@@ -1,4 +1,4 @@
-package behaviorall;
+package com.patern.designpatterns.behaviorall.observer;
 
 import lombok.Builder;
 import lombok.Data;
